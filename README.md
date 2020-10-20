@@ -12,9 +12,9 @@ Ce projet recevra de mises à jour importantes au fur et à mesure.
 Vous pouvez avoir un aperçu de son fonctionnement en accèdent à ce lien : https://devflix-by-walternj.netlify.app/
 
 <p align="center">
-  <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/master/Img_Light.png" width="auto" />
+  <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/master/Img_Light.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/master/Img_Dark.png" width="auto" />
+  <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/master/Img_Dark.png" width="100%" />
 </p>
