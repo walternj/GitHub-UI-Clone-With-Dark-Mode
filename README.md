@@ -19,7 +19,7 @@ De nos jours, le Dark Mode devient de plus en plus tendance dans le monde des ap
 
 ## Les Avantages du Dark Mode
 
-Confort et Santé Visuel
+### Confort et Santé Visuel
 1) Le dark mode réduit la fatigue des yeux en simplifiant la hiérarchie du contenu et en minimisant les distractions visuelles.
 
 2) Il permet donc de prévenir, dans une certaine mesure, les maux de tête ou une sécheresse oculaire lors d'une utilisation prolongée d’un écran. Les informations affichées sur l’écran sont plus faciles à lire dans les environnements sombres ou tamisés, le matin et le soir par exemple.
@@ -32,10 +32,10 @@ Les smartphones équipés d’écrans OLED désactivent les pixels noirs lorsqu�
 Google a réalisé des tests en utilisant YouTube en mode sombre et a obtenu une économie d’énergie comprise entre 14% et 60% (selon la luminosité de l'écran).
 
 
-# #Alors, on met du dark mode partout?
+## Alors, on met du dark mode partout?
 ### Malgré ces bénéfices, on doit être judicieux au moment d'utiliser le mode sombre.
 
-##Quand on doit l'utiliser ?
+## Quand on doit l'utiliser ?
 
 1) Pour des applications axées sur la vie nocturne/divertissement (Netflix, Youtube, Spotify, Instagran…)
 2) Pour une interface qui est utilisée à longueur de journée (de type messagerie, intranet, IDE ou logiciel de PAO/CAO)
