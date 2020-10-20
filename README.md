@@ -11,11 +11,12 @@ Ah ! Si vous voulez le tester sur votre propre repositoire Github ou un autre, i
 
 De nos jours, le Dark Mode devient de plus en plus tendance dans le monde des applications (principalement sur smartphone). On peut le retrouver sur des applications populaires telles qu'Instagram, Youtube, Twitter, WhatsApp ou encore Facebook. Les principaux fabricants de smartphones ont même ajouté l’option dans les paramètres de leur système d’exploitation.
 
+<a href="https://github-ui-clone-with-dark-mode.netlify.app/" target="_blank">
 <p float="center">
   <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/main/Img_Light.png" width="47%" />
    <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/main/Img_Dark.png" width="47%" />
 </p>
-
+</a>
 
 ## Les Avantages du Dark Mode
 
