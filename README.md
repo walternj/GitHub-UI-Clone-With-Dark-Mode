@@ -4,7 +4,7 @@ Ceci est un clone de l'UI (l'interface utilisateur) du site web GitHub avec un p
 
 J'ai développé ce projet pour pouvoir parler un peu sur le Dark Mode (ou Mode sombre) et démontrer l'intérêt de l'implémenter dans nos projets web et mobile.
 
-Vous pouvez visiter le site en cliquant <a hrfe="shorturl.at/bjACG" target="new><strong>ici</strong></> , et tirer vous propres conclusions en alternant entre le mode Dark et Light à l'aide du bouton Switch trouvé dans l'en-tête de la page.
+Vous pouvez visiter le site en cliquant <a href="shorturl.at/bjACG" target="_blank"><strong>ici</strong></> , et tirer vous propres conclusions en alternant entre le mode Dark et Light à l'aide du bouton Switch trouvé dans l'en-tête de la page.
 Ah ! Si vous voulez le tester sur votre propre repositoire Github ou un autre, il vous suffit d'utiliser la barre de recherche, ça fonctionne aussi ;)
 
 ## Introduction
