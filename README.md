@@ -71,11 +71,11 @@ Le texte d’éléments désactivés – opacité de 38%
 
 #### Ça marche aussi pour le noir donc: 
 
-Éviter le vrai noir (#000000)
-Il est préférable d'utiliser un gris foncé comme couleur de fond principale.
-Un texte clair sur une surface gris foncé a moins de contraste que du texte clair sur une surface noire, il sera plus lisible.
-Le gris permet aussi l’utilisation d’une plus large gamme de couleurs, et donc une hiérarchisation plus simple de l’information. 
-Il est aussi plus facile d'appréhender les ombres (et donc la profondeur) sur un fond gris plutôt qu’un fond noir.
+Éviter le vrai noir (#000000). </br>
+Il est préférable d'utiliser un gris foncé comme couleur de fond principale. </>
+Un texte clair sur une surface gris foncé a moins de contraste que du texte clair sur une surface noire, il sera plus lisible. </br>
+Le gris permet aussi l’utilisation d’une plus large gamme de couleurs, et donc une hiérarchisation plus simple de l’information. </>
+Il est aussi plus facile d'appréhender les ombres (et donc la profondeur) sur un fond gris plutôt qu’un fond noir. </>
 Dans son guide du Dark Theme, Google Material Design recommande d’utiliser le gris foncé #121212, comme couleur de fond pour un thème sombre.
 
 ## Conclusion
