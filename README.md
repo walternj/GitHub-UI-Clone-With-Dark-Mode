@@ -7,7 +7,7 @@ J'ai développé ce projet pour pouvoir parler un peu sur le Dark Mode (ou Mode 
 Vous pouvez visiter le site par ce lien : shorturl.at/bjACG , et tirer vous propres conclusions en alternant entre le mode Dark et Light à l'aide du bouton Switch trouvé dans l'en-tête de la page.
 Ah ! Si vous voulez le tester sur votre propre repositoire Github ou un autre, il vous suffit d'utiliser la barre de recherche, ça fonctionne aussi ;)
 
-##Introduction
+## Introduction
 
 De nos jours, le Dark Mode devient de plus en plus tendance dans le monde des applications (principalement sur smartphone). On peut le retrouver sur des applications populaires telles qu'Instagram, Youtube, Twitter, WhatsApp ou encore Facebook. Les principaux fabricants de smartphones ont même ajouté l’option dans les paramètres de leur système d’exploitation.
 
@@ -17,7 +17,7 @@ De nos jours, le Dark Mode devient de plus en plus tendance dans le monde des ap
 </p>
 
 
-##Les Avantages du Dark Mode
+## Les Avantages du Dark Mode
 
 Confort et Santé Visuel
 1) Le dark mode réduit la fatigue des yeux en simplifiant la hiérarchie du contenu et en minimisant les distractions visuelles.
@@ -27,13 +27,13 @@ Moi particulièrement, je l'utilise par tout, et ça a vraiment épargné mes ye
 
 3) Le mode sombre facilite la lisibilité du contenu lorsque la lumière est faible. Il produit aussi moins de lumière bleue que le mode classique. Cela permet de diminuer l’impact négatif des écrans sur le cycle de sommeil.
 
-##Économie d'énergie
+## Économie d'énergie
 Les smartphones équipés d’écrans OLED désactivent les pixels noirs lorsqu’ils ne sont pas utilisés. Le mode sombre utilisant de nombreux pixels noirs, cela permet à l’appareil d’utiliser moins d’énergie.
 Google a réalisé des tests en utilisant YouTube en mode sombre et a obtenu une économie d’énergie comprise entre 14% et 60% (selon la luminosité de l'écran).
 
 
-##Alors, on met du dark mode partout?
-###Malgré ces bénéfices, on doit être judicieux au moment d'utiliser le mode sombre.
+# #Alors, on met du dark mode partout?
+### Malgré ces bénéfices, on doit être judicieux au moment d'utiliser le mode sombre.
 
 ##Quand on doit l'utiliser ?
 
@@ -42,7 +42,7 @@ Google a réalisé des tests en utilisant YouTube en mode sombre et a obtenu une
 3) Pour un site qui a besoin de faire ressortir une image de luxe, de prestige
 4) Pour un site qui a besoin de jouer sur les émotions (par exemple, faire ressortir un sentiment d'intrigue et de mystère)
 
-##Quand on ne doit pas l'utiliser ?
+## Quand on ne doit pas l'utiliser ?
 
 1) Pour des interfaces très chargées en texte
 2) Pour des sites qui ont beaucoup de types de contenus différents affichés en même temps à l'écran (textes, images, vidéo, tableaux, ...)
@@ -50,7 +50,7 @@ Google a réalisé des tests en utilisant YouTube en mode sombre et a obtenu une
 4) Pour des sites avec un design trop complexe (jeu de textures ou gamme de couleurs trop large)
 
 
-##Quelques conseils :
+## Quelques conseils :
 
 Laisser la possibilité à l’utilisateur d’activer/désactiver l’option
 
@@ -60,7 +60,7 @@ Vous pouvez aussi proposer l’option d’un basculement automatique du thème c
 Le passage d’un thème clair à un thème sombre est un changement visuel important, et il doit donc rester constamment sous le contrôle de l’utilisateur.
 
 
-##Attention à la lisibilité et donc l’accessibilité
+## Attention à la lisibilité et donc l’accessibilité
 
 Le blanc (#000000) est une couleur vive et sa lecture est fatigante sur les arrière-plans de couleurs sombres.
 Pour pallier à ce problème, Google Material Design recommande d'utiliser un blanc moins franc et légèrement plus sombre suivant le contexte :
@@ -69,7 +69,7 @@ Les textes importants – opacité de 87%
 Le texte d’importance moyenne et le texte d’aide – opacité de 60%
 Le texte d’éléments désactivés – opacité de 38%
 
-####Ça marche aussi pour le noir donc: 
+#### Ça marche aussi pour le noir donc: 
 
 Éviter le vrai noir (#000000)
 Il est préférable d'utiliser un gris foncé comme couleur de fond principale.
@@ -78,7 +78,7 @@ Le gris permet aussi l’utilisation d’une plus large gamme de couleurs, et do
 Il est aussi plus facile d'appréhender les ombres (et donc la profondeur) sur un fond gris plutôt qu’un fond noir.
 Dans son guide du Dark Theme, Google Material Design recommande d’utiliser le gris foncé #121212, comme couleur de fond pour un thème sombre.
 
-##Conclusion
+## Conclusion
 
 Le Dark Mode est très populaire. Les principales plates-formes ont commencé à le prendre en charge, et les utilisateurs l'utilisent de plus en plus.
 Mais attention, il ne s'applique pas à tous les sites web et app, donc à l’utiliser à bon escient.
