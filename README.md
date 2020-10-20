@@ -15,3 +15,7 @@ Vous pouvez avoir un aperçu de son fonctionnement en accèdent à ce lien : htt
   <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/master/Img_Light.png" width="auto" />
   <img src="https://github.com/walternj/GitHub-UI-Clone-With-Dark-Mode/blob/master/Img_Dark.png" width="auto" />
 </p>
+<p float="center">
+   <img src="https://github.com/walternj/DEVFLIX/blob/master/Capture.PNG" width="82.5%" />
+  <img src="https://github.com/walternj/DEVFLIX/blob/master/Capture_mobile.png" width="15.5%" />
+</p>
