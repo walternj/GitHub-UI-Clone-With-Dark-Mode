@@ -28,7 +28,7 @@ Moi particulièrement, je l'utilise par tout, et ça a vraiment épargné mes ye
 
 3) Le mode sombre facilite la lisibilité du contenu lorsque la lumière est faible. Il produit aussi moins de lumière bleue que le mode classique. Cela permet de diminuer l’impact négatif des écrans sur le cycle de sommeil.
 
-## Économie d'énergie
+### Économie d'énergie
 Les smartphones équipés d’écrans OLED désactivent les pixels noirs lorsqu’ils ne sont pas utilisés. Le mode sombre utilisant de nombreux pixels noirs, cela permet à l’appareil d’utiliser moins d’énergie.
 Google a réalisé des tests en utilisant YouTube en mode sombre et a obtenu une économie d’énergie comprise entre 14% et 60% (selon la luminosité de l'écran).
 
