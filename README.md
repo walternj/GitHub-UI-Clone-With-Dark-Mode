@@ -34,16 +34,16 @@ Google a réalisé des tests en utilisant YouTube en mode sombre et a obtenu une
 
 
 ## Alors, on met du dark mode partout?
-### Malgré ces bénéfices, on doit être judicieux au moment d'utiliser le mode sombre.
+#### Malgré ces bénéfices, on doit être judicieux au moment d'utiliser le mode sombre.
 
-## Quand on doit l'utiliser ?
+### Quand on doit l'utiliser ?
 
 1) Pour des applications axées sur la vie nocturne/divertissement (Netflix, Youtube, Spotify, Instagran…)
 2) Pour une interface qui est utilisée à longueur de journée (de type messagerie, intranet, IDE ou logiciel de PAO/CAO)
 3) Pour un site qui a besoin de faire ressortir une image de luxe, de prestige
 4) Pour un site qui a besoin de jouer sur les émotions (par exemple, faire ressortir un sentiment d'intrigue et de mystère)
 
-## Quand on ne doit pas l'utiliser ?
+### Quand on ne doit pas l'utiliser ?
 
 1) Pour des interfaces très chargées en texte
 2) Pour des sites qui ont beaucoup de types de contenus différents affichés en même temps à l'écran (textes, images, vidéo, tableaux, ...)
