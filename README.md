@@ -1,6 +1,6 @@
 # <a href="https://github-ui-clone-with-dark-mode.netlify.app/" target="_blank">GITHUB UI CLONE WITH THEME SWITCH - DARK | LIGHT</a>
 
-Ceci est un clone de l'UI (l'interface utilisateur) du site web GitHub avec un petit d'ajout, qu'à mon avis fait toute la différence d'UX (d'expérience utilisateur), le Dark Mode.
+Ceci est un clone de l'UI (l'interface utilisateur) du site web GitHub avec un petit ajout, qu'à mon avis fait toute la différence d'UX (d'expérience utilisateur), le Dark Mode.
 
 J'ai développé ce projet pour pouvoir parler un peu sur le Dark Mode (ou Mode sombre) et démontrer l'intérêt de l'implémenter dans nos projets web et mobile.
 
